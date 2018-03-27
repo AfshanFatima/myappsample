@@ -1,0 +1,30 @@
+<!--
+h1{
+    color:red;
+  }
+  li{
+    width:400px
+  }
+  .thirdDiv{
+    height:600px;
+    width:500px;
+    background-color:powderblue;
+    padding:50px;
+    border:10px solid teal;
+   
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+   justify-content:flex-start;
+   align-items:center;
+   text-align: center;
+  }
+
+  #spanId {
+    font-size:18px;
+  }
+  body{
+      text-align: center;
+      }
+
+-->
